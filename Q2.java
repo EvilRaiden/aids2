@@ -62,3 +62,4 @@ public class Q2 {
     }
     }
 
+//this is the edited one . need commenrs 
